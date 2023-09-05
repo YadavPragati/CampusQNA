@@ -20,8 +20,8 @@ To run the Campus Qna application locally, Follow the steps :
    - For backend: `cd backend` followed by `npm install`
 5. Start the frontend and backend servers: There are 2 methods of doing it
    1.  Running Seperately
-   - For frontend: `cd frontend` and then `npm start`
-   - For backend: `cd backend` and then `npm start`
+      - For frontend: `cd frontend` and then `npm start`
+      - For backend: `cd backend` and then `npm start`
    2.  Running together
       - Navigate to the main directory and then 'npm start'  as scripts are allready written for the same. 
 
